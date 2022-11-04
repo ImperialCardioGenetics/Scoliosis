@@ -4,7 +4,7 @@ author: "Valentina Quintero Santofimio, Dr Kathryn McGurk"
 date: "04/11/2022"
 output: html_document
 ---
-#Identification of Scoliosis in the UK Biobank library
+#Identification of participants with scoliosis in the UK Biobank library
 ```{r}
 library(data.table)
 library(dplyr)
