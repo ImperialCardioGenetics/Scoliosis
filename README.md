@@ -6,6 +6,7 @@ Results: A total of 4,095 (0.8%, 1in120) UKB participants were identified to hav
 Conclusion: The spinal curvature observed in participants with scoliosis alters the movement of the heart. The association with increased MACE may have clinical implications for whether to undertake surgical correction. This work identifies, in an adult population, evidence for altered cardiac function and increased lifetime risk of MACE in participants with scoliosis. Future genetic analyses would aid to assess causality.
 
 
-#Citation
+# Citation
+
 Identification of an increased lifetime risk of major adverse cardiovascular events in UK Biobank participants with scoliosis.
 Valentina Q. Santofimio, Adam Clement, Declan P. O’Regan, James S. Ware, Kathryn A. McGurk*
